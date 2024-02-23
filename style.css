@@ -12,7 +12,10 @@ body {
   height: 4rem;
   margin-top: -4rem;
 }
-
+.navTop {
+  display: flex;
+  justify-content: space-between;
+}
 .navbar {
   text-transform: uppercase;
   font-weight: 700;
