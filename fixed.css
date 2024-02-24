@@ -87,3 +87,6 @@
   margin-left: 50%;
   transform: translateX(-50%);
 }
+.narrow .row h5{
+  font-weight: 800 !important;
+}
